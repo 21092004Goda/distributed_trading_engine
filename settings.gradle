@@ -1,0 +1,3 @@
+rootProject.name = 'distributed_trading_engine'
+include 'wallet_service'
+
